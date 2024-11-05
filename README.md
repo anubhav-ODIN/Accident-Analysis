@@ -1,7 +1,4 @@
 # Accident-Analysis
-To create a README file for your project, you can follow this structure, summarizing the key points from your report while making it concise and easy to follow. Here's a draft README:
-
----
 
 # How a Bayesian Hierarchical Model Makes Our Roads Safer
 
